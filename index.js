@@ -21,6 +21,16 @@ var mcqList = [
         question: 'Favourite singer?: ',
         answer: 'Taylor Swift'
     },
+    {
+        array: ['Bangalore', 'Gurugram', 'Delhi', 'Pune'],
+        question: 'Where do i live?: ',
+        answer: 'Gurugram'
+    },
+    {
+        array: ['MP', 'Punjab', 'Chennai', 'Delhi'],
+        question: 'My hometown?: ',
+        answer: 'MP'
+    },
 ];
 
 let score = 0;
